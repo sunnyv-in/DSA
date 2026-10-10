@@ -1,3 +1,13 @@
+/*
+
+1 to n number pattern in square shape
+
+123
+456
+789
+
+*/
+
 #include<stdio.h>
 
 int main() {
